@@ -10,7 +10,13 @@ Tailwind CSS website to get random pictures. Your friendly neighbourhood unsplas
 </ul>
 
 <h2>Screenshot</h2>
-<img src="">
+<img src="https://github.com/Juliee23/Picture-Search/blob/main/images/WhatsApp%20Image%202025-02-09%20at%2011.07.55_49cb441d.jpg?raw=true">
+<img src="https://github.com/Juliee23/Picture-Search/blob/main/images/WhatsApp%20Image%202025-02-09%20at%2011.07.56_2e39ddad.jpg?raw=true">
+<img src="https://github.com/Juliee23/Picture-Search/blob/main/images/WhatsApp%20Image%202025-02-09%20at%2011.07.56_ca99c74d.jpg?raw=true">
+<img src="https://github.com/Juliee23/Picture-Search/blob/main/images/WhatsApp%20Image%202025-02-09%20at%2011.07.56_c736a49d.jpg?raw=true">
+<img src="https://github.com/Juliee23/Picture-Search/blob/main/images/WhatsApp%20Image%202025-02-09%20at%2011.07.57_ac13b947.jpg?raw=true">
+<img src="https://github.com/Juliee23/Picture-Search/blob/main/images/WhatsApp%20Image%202025-02-09%20at%2011.07.57_5f2aff66.jpg?raw=true">
+<img src="https://github.com/Juliee23/Picture-Search/blob/main/images/WhatsApp%20Image%202025-02-09%20at%2011.07.57_74e7090a.jpg?raw=true">
 
 <h2>Built with:</h2>
 <ul>
@@ -19,7 +25,7 @@ Tailwind CSS website to get random pictures. Your friendly neighbourhood unsplas
 
 <h2>Demo</h2>
 <ul>
-  <li><a href="">picture-search-leannacodes-juliee.netlify.app</a></li>
+  <li><a href="https://picture-search-leannacodes-juliee.netlify.app/">picture-search-leannacodes-juliee.netlify.app</a></li>
 </ul>
 
 <h2>Find Me</h2>
